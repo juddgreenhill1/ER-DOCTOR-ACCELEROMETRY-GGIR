@@ -1,0 +1,17 @@
+# ------------------------------------------------------------------
+# WHITELIST: this repository holds CODE ONLY.
+# Everything is ignored by default; only the files listed below can
+# ever be committed. This blocks raw accelerometer files (.bin),
+# sleep/shift logs, GGIR output, CSV/Excel reports and graphs, so no
+# participant data can be pushed by accident.
+# ------------------------------------------------------------------
+*
+
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!CITATION.cff
+
+!scripts/
+!scripts/*.R

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "ER-DOCTOR-ACCELEROMETRY-GGIR: Processing pipeline for 'Accelerometry-derived Physical Activity Patterns in Western Cape Emergency Room Doctors'"
+type: software
+authors:
+  - family-names: Greenhill
+    given-names: Judd
+    affiliation: "Department of Anatomical Sciences, University of the Witwatersrand"
+license: MIT
+date-released: 2026-10-15
+keywords:
+  - accelerometry
+  - GGIR
+  - GENEActiv
+  - physical activity
+  - shift work
+  - emergency medicine
