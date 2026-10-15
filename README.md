@@ -153,7 +153,7 @@ Newer versions should work. GGIR in particular changes its defaults between rele
 1. Install [R](https://cran.r-project.org/) (and, optionally, [RStudio](https://posit.co/download/rstudio-desktop/)).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/ER-DOCTOR-ACCELEROMETRY-GGIR.git
+   git clone https://github.com/juddgreenhill1/ER-DOCTOR-ACCELEROMETRY-GGIR.git
    ```
 3. Install the packages. Each script also installs any missing package automatically the first time it runs.
    ```r
@@ -620,7 +620,7 @@ The scripts stop with a clear message, or warn, instead of silently continuing:
 
 If you use or adapt this code, please cite the thesis and this repository (GitHub's **"Cite this repository"** button uses [`CITATION.cff`](CITATION.cff)):
 
-> Greenhill, J. (2026). *Accelerometry-derived Physical Activity Patterns in Western Cape Emergency Room Doctors* [BHSc Honours thesis, University of the Witwatersrand]. Code: https://github.com/&lt;your-username&gt;/ER-DOCTOR-ACCELEROMETRY-GGIR
+> Greenhill, J. (2026). *Accelerometry-derived Physical Activity Patterns in Western Cape Emergency Room Doctors* [BHSc Honours thesis, University of the Witwatersrand]. Code: https://github.com/juddgreenhill1/ER-DOCTOR-ACCELEROMETRY-GGIR
 
 Please also cite GGIR and the cut-points used (below).
 
